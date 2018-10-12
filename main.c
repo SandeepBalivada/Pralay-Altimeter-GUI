@@ -6,7 +6,7 @@ int i,slot;
 int ack=0,flag=0,pno=0;
 int main()
 {
-    printf("Enter the time slot:\n");
+    printf(" Enter the time slot:\n");
     scanf("%d",&slot);
    for(i=0;i<9;i++)
    {
